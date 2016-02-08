@@ -1,7 +1,7 @@
 # Minimal Beaver	
 
 Alpine Linux based simple beaver container for logging Docker containers.
-Aim was to replace current cent-os based queue with something much lighter.
+Aim was to replace current cent-os based container with something much lighter.
 
 
 ###Setup 
